@@ -18,10 +18,10 @@ function displayBanner() {
     `${color.cyan}===============================================${color.reset}`
   );
   console.log(
-    `${color.cyan}GitHub  : https://github.com/Galkurta${color.reset}`
+    `${color.cyan}GitHub  : https://github.com/Animehub4u${color.reset}`
   );
   console.log(
-    `${color.cyan}Telegram: https://t.me/galkurtarchive${color.reset}`
+    `${color.cyan}Telegram: https://t.me/airdropscriptzone${color.reset}`
   );
   console.log(
     `${color.cyan}===============================================\n${color.reset}`
